@@ -15,4 +15,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=0x4b4149&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0x4b4149&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0x4b4149&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<img src="https://komarev.com/ghpvc/?username=0x4b4149&label=Profile%20views&color=0e75b6&style=flat" alt="0x4b4149" /> </p>
