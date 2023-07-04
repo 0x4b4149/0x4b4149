@@ -9,7 +9,7 @@
 
 # 🌐 Competition:
 IT Network Systems Administration
-- 53th Taiwan National Skills Competition of Southern District IT Network Systems Administration Silver Medal 🥈
+- 53rd Taiwan National Skills Competition of Southern District IT Network Systems Administration Silver Medal 🥈
 
 CTF
 - 2023 MyFirstCTF 14th Place
