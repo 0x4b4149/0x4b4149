@@ -9,13 +9,17 @@
 
 # 🌐 Competition:
 IT Network Systems Administration
-- 53rd Taiwan National Skills Competition of Southern District IT Network Systems Administration Silver Medal 🥈
+- 第53屆全國技能競賽南區分區技能競賽 資訊與網路技術 銀牌 🥈
 
 CTF
 - 2023 MyFirstCTF 14th Place
 - 2023 AIS3 Pre-exam 77th Place
 
+Cyber Security
+- AIS3 Junior 網頁安全組 專題 第一名
+
 Programming
+- APCS 實作3 觀念3
 - 第九屆來恩盃全國高中職程式能力能力競賽 電機與電子群組 第三名
 - 2022 虎科資管盃全國高中職Python程式設計競賽 優質潛力獎 第十三名
 
