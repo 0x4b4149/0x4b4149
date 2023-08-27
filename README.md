@@ -16,7 +16,7 @@ CTF
 - 2023 AIS3 Pre-exam 77th Place
 
 Cyber Security
-- AIS3 Junior 網頁安全組 專題 第一名
+- 2023 AIS3 Junior 網頁安全組 專題 第一名
 
 Programming
 - APCS 實作3 觀念3
