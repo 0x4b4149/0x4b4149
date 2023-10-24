@@ -6,23 +6,6 @@
 - 50% Anti Social 🌙
 -
 - Part Time Music Producer
-
-# 🌐 Competition:
-IT Network Systems Administration
-- 第53屆全國技能競賽南區分區技能競賽 資訊與網路技術 銀牌 🥈
-
-CTF
-- 2023 MyFirstCTF 14th Place
-- 2023 AIS3 Pre-exam 77th Place
-
-Cyber Security
-- 2023 AIS3 Junior 網頁安全組 專題 第一名
-
-Programming
-- APCS 實作3 觀念3
-- 第九屆來恩盃全國高中職程式能力能力競賽 電機與電子群組 第三名
-- 2022 虎科資管盃全國高中職Python程式設計競賽 優質潛力獎 第十三名
-
 # 💻 Tech Stack:
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
